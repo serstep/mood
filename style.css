@@ -1,0 +1,36 @@
+#container{
+	position: fixed;
+	top: 30%;
+	left: 33%;
+	width: 30%;
+	height: 350px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#quote-container{
+	position: relative;
+}
+
+#quote{
+	height: 60px;
+}
+
+#signature{
+	text-align: right;
+	height: 50px;
+}
+
+#next-button{
+	border: 1px solid black;
+	border-radius: 3px;
+	width: 140px;
+	height: 20px;
+	padding: 5px;
+	margin: auto;
+	cursor: pointer;
+}
+
+#title{
+	text-align: center;
+}
